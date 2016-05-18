@@ -1,0 +1,8 @@
+.idea
+.vscode
+node_modules
+logs
+*.log
+try
+*.css.map
+.remote-sync.json
